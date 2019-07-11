@@ -1,0 +1,44 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+-
+  field: PRODUCT NAME
+  keywords:
+    - 물품명
+    - our material
+-
+  field: LOT NO
+  keywords:
+    - 롯트(batch)
+    - batch
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - 제조일
+    - date of manufacture
+-
+  field: ITEMS
+  keywords:
+    - 검사항목
+    - characteristic
+-
+  field: UNIT
+  keywords:
+    - 측정단위
+    - measure
+-
+  field: RESULT
+  keywords:
+    - 검사결과
+    - value
+-
+  field: SUB_PRODUCT_NAME
+  keywords:
+    - 고객물품
+    - customer material
+-
+  field: SUB_DATE
+  keywords:
+    - 규격상한
+    - upper limit

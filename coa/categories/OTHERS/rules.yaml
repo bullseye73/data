@@ -1,0 +1,68 @@
+-
+  field: PRODUCT NAME
+  keywords:
+    - product
+    - product name
+    - certificate of analysis according to
+    - certificate
+    - commodity
+    - prd. name
+    - material number
+    - material
+    - 제품명
+    - 품명 및 규격
+-
+  field: LOT NO
+  keywords:
+    - lot
+    - lot no
+    - lot no.
+    - batch
+    - 생산 lot번호
+    - 로트번호
+    - 롯트(batch)
+    - 생산 lot 번호
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - manufacturing date
+    - manufacture date
+    - date of manufacture
+    - production date
+    - 제조일
+    - 제조일자
+-
+  field: ITEMS
+  keywords:
+    - item
+    - item of analysis
+    - analysis items
+    - characteristic
+    - characteristics
+    - critieria
+    - characteristic
+    - inspection characteristics
+    - 구분
+    - 검사항목
+    - 시험항목
+    - 항목
+-
+  field: UNIT
+  keywords:
+    - unit
+    - units
+    - measure
+    - 단위
+    - 단위
+    - 측정단위
+    - 규격
+-
+  field: RESULT
+  keywords:
+    - value
+    - test result
+    - test results
+    - results
+    - result
+    - 시험결과
+    - 검사결과

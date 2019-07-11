@@ -1,0 +1,28 @@
+-
+  field: PRODUCT NAME
+  keywords:
+    - product
+-
+  field: LOT NO
+  keywords:
+    - lot no
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - production date
+-
+  field: ITEMS
+  keywords:
+    - item 
+-
+  field: UNIT
+  keywords:
+    - unit
+-
+  field: RESULT
+  keywords:
+    - test results
+-
+  field: APPEARANCE
+  keywords:
+    - appearance

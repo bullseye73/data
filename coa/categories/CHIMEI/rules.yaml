@@ -1,0 +1,20 @@
+-
+  field: PRODUCT NAME
+  keywords:
+    - prd. name
+-
+  field: LOT NO
+  keywords:
+    - lot no.
+-
+  field: ITEMS
+  keywords:
+    - item
+-
+  field: UNIT
+  keywords:
+    - unit
+-
+  field: RESULT
+  keywords:
+    - result

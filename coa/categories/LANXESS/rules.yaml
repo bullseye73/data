@@ -1,0 +1,29 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+-
+  field: PRODUCT NAME
+  keywords:
+    - material number
+    - material
+-
+  field: LOT NO
+  keywords:
+    - batch
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - manufacture date
+-
+  field: ITEMS
+  keywords:
+    - characteristic
+-
+  field: UNIT
+  keywords:
+    - unit
+-
+  field: RESULT
+  keywords:
+    - result

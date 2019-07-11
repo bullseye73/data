@@ -1,0 +1,28 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+-
+  field: PRODUCT NAME
+  keywords:
+    - 제품명
+-
+  field: LOT NO
+  keywords:
+    - 로트번호
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - production date
+-
+  field: ITEMS
+  keywords:
+    - 시험항목
+-
+  field: UNIT
+  keywords:
+    - 단위
+-
+  field: RESULT
+  keywords:
+    - 시험결과

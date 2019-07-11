@@ -1,0 +1,56 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+    - 고객사명
+    - receiver
+    - 제조사
+    - 고객명
+-
+  field: PRODUCT NAME
+  keywords:
+    - product name
+    - product
+    - 제품명
+    - 품명 및 규격
+    - commodity
+    - 품명
+-
+  field: LOT NO
+  keywords:
+    - lot no
+    - lot
+    - 생산 lot번호
+    - 로트번호
+    - 롯트(batch)
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - production date
+    - 제조일
+    - 제조일자
+    - date of manufacture
+    - manufacturing date
+-
+  field: ITEMS
+  keywords:
+    - item of analysis
+    - items
+    - 검사항목
+    - 시험항목
+    - analysis items
+    - 항목
+-
+  field: UNIT
+  keywords:
+    - 단위
+    - 측정단위
+    - 규격
+-
+  field: RESULT
+  keywords:
+    - results
+    - result
+    - test result
+    - 시험결과
+    - 검사결과

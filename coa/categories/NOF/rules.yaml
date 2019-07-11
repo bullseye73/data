@@ -1,0 +1,32 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+-
+  field: PRODUCT NAME
+  keywords:
+    - commodity
+-
+  field: LOT NO
+  keywords:
+    - lot no
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - production date
+-
+  field: ITEMS
+  keywords:
+    - item of analysis
+-
+  field: UNIT
+  keywords:
+    - 단위
+-
+  field: RESULT
+  keywords:
+    - results
+-
+  field: SUB_PRODUCT_NAME
+  keywords:
+    - quantity

@@ -1,0 +1,24 @@
+-
+  field: PRODUCT NAME
+  keywords:
+    - certificate
+-
+  field: LOT NO
+  keywords:
+    - pure grade
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - "mfg. date :"
+-
+  field: ITEMS
+  keywords:
+    - tests
+-
+  field: UNIT
+  keywords:
+    - unit
+-
+  field: RESULT
+  keywords:
+    - results

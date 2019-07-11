@@ -1,0 +1,24 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - 고객명
+-
+  field: PRODUCT NAME
+  keywords:
+    - 품명
+-
+  field: LOT NO
+  keywords:
+    - lot no
+-
+  field: ITEMS
+  keywords:
+    - 항목
+-
+  field: UNIT
+  keywords:
+    - 단위
+-
+  field: RESULT
+  keywords:
+    - 시험결과

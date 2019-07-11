@@ -1,0 +1,36 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - 제조사
+    - 고객명
+-
+  field: PRODUCT NAME
+  keywords:
+    - certificate of analysis according to
+-
+  field: LOT NO
+  keywords:
+    - lot
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - manufacturing date
+    - production date
+-
+  field: ITEMS
+  keywords:
+    - inspection characteristics
+    - critieria
+    - characteristic/method
+-
+  field: UNIT
+  keywords:
+    - unit
+    - units
+    - u0m
+-
+  field: RESULT
+  keywords:
+    - test result
+    - results
+    - result

@@ -1,0 +1,16 @@
+-
+  field: PRODUCT NAME
+  keywords:
+    - product
+-
+  field: LOT NO
+  keywords:
+    - lot no.
+-
+  field: ITEMS
+  keywords:
+    - inspection characteristics
+-
+  field: RESULT
+  keywords:
+    - test results

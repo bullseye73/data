@@ -1,0 +1,49 @@
+-
+  field: 전화번호
+  keywords:
+    - 전화
+    - 전화번호
+    - tel
+    - (t)
+    - "t:"
+-
+  field: 팩스번호
+  keywords:
+    - 팩스
+    - 팩스번호
+    - fax
+    - (f)
+    - "f:"
+-
+  field: 이메일주소
+  keywords:
+    - 이메일
+    - 이메일주소
+    - email
+    - email주소
+    - e-mail
+    - e-mail주소
+    - mail
+    - mail주소
+-
+  field: 문서번호
+  keywords:
+    - 문서번호
+-
+  field: 담당자
+  keywords:
+    - 담당자
+    - 담당자성명
+-
+  field: 책임자
+  keywords:
+    - 책임자
+    - 책임자성명
+-
+  field: 성명
+  keywords:
+    - 성명
+-
+  field: 직책
+  keywords:
+    - 직책

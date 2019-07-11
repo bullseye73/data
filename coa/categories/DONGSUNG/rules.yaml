@@ -1,0 +1,36 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+    - 고객사명
+    - receiver
+    - 제조사
+    - 고객명
+-
+  field: PRODUCT NAME
+  keywords:
+    - 제품명
+-
+  field: LOT NO
+  keywords:
+    - lot no
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - 제조일
+-
+  field: ITEMS
+  keywords:
+    - 구분
+-
+  field: UNIT
+  keywords:
+    - 단위
+-
+  field: RESULT
+  keywords:
+    - test result
+- 
+  field: SUB_PRODUCT_NAME
+  keywords: 고객사명
+    - 

@@ -1,0 +1,29 @@
+-
+  field: COURT NAME
+  keywords:
+    - 법원
+-
+  field: EVENT
+  keywords:
+    - 사건
+-
+  field: CREDITOR
+  keywords:
+    - 채권자
+-
+  field: DEBTOR_OTHER
+  keywords:
+    - 제3채무자
+-
+  field: DEBTOR
+  keywords:
+    - 채무자
+-
+  field: PRICE
+  keywords:
+    - 청구금액
+-
+  field: JUDGE
+  keywords:
+    - 판사
+    - 사법보좌관

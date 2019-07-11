@@ -1,0 +1,34 @@
+-
+  field: COMPANY NAME
+  keywords:
+    - customer
+-
+  field: PRODUCT NAME
+  keywords:
+    - product (产品名称)
+-
+  field: LOT NO
+  keywords:
+    - lot no (批号)
+-
+  field: DATE OF PRODUCTION
+  keywords:
+    - date of manufacture (生产日期)
+-
+  field: ITEMS
+  keywords:
+    - 分析项目
+-
+  field: UNIT
+  keywords:
+    - 단위
+-
+  field: RESULT
+  keywords:
+    - 结果
+-
+  field: SUB_ITEMS
+    - analysis items
+-
+  field: SUB_RESULT
+    - results

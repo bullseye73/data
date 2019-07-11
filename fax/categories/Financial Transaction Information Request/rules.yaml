@@ -1,0 +1,79 @@
+-
+  field: 요구기관명
+  keywords:
+    - 요구기관명
+-
+  field: 기관명
+  keywords:
+    - 기관명
+-
+  field: 전화번호
+  keywords:
+    - 전화
+    - 전화번호
+    - tel
+    - (t)
+    - "t:"
+    - t.
+    - 연락처
+    - 회신문의
+-
+  field: 팩스번호
+  keywords:
+    - 팩스
+    - 팩스번호
+    - fax
+    - (f)
+    - "f:"
+    - f.
+-
+  field: 이메일주소
+  keywords:
+    - 이메일
+    - 이메일주소
+    - email
+    - email주소
+    - e-mail
+    - e-mail주소
+    - mail
+    - mail주소
+-
+  field: 유예기간
+  keywords:
+    - 유예기간
+-
+  field: 문서번호
+  keywords:
+    - 문서번호
+-
+  field: 영장번호
+  keywords:
+    - 영장번호
+-
+  field: 담당자
+  keywords:
+    - 담당자
+-
+  field: 책임자
+  keywords:
+    - 책임자
+-
+  field: 성명
+  keywords:
+    - 성명
+-
+  field: 직책
+  keywords:
+    - 직책
+-
+  field: 사용목적
+  keywords:
+    - 사용목적
+-
+  field: 요구일자
+  keywords:
+    - 요구일자
+-
+  field: 요구자
+  keywords:
+    - 요구자

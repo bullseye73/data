@@ -1,0 +1,16 @@
+-
+  field: PRODUCT NAME
+  keywords:
+    - lot
+-
+  field: ITEMS
+  keywords:
+    - characteristic
+-
+  field: UNIT
+  keywords:
+    - unit
+-
+  field: RESULT
+  keywords:
+    - value
